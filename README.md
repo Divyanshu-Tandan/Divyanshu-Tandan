@@ -8,7 +8,7 @@
 
 
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif"/>
+<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/8c/f6/06/8cf60608f95bfae20a9e78884e1a33cb.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-Tandan&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-Tandan" /> </p>
 
