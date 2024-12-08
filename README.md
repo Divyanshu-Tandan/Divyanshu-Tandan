@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">, I'm Divyanshu Tandan</h1>
 
 <p align="center">
