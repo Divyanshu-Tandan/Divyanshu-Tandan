@@ -10,7 +10,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek249494" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-Tandan&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-Tandan" /> </p>
 
 - 🔭 I’m currently working on **careertronics.in**
 
@@ -101,13 +101,13 @@
     <thead>
       <tr>
         <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=The-Abhishek-Singh&show_icons=true&locale=en&layout=compact">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Abhishek-Singh&show_icons=true&locale=en&layout=compact"  alt="GitHub Streak" style="width: 24.5em; height: 14em; object-fit: contain;" />
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=Divyanshu-Tandan&show_icons=true&locale=en&layout=compact">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyanshu-Tandan&show_icons=true&locale=en&layout=compact"  alt="GitHub Streak" style="width: 24.5em; height: 14em; object-fit: contain;" />
           </a>
         </th>
         <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="https://github-readme-stats.vercel.app/api?username=The-Abhishek-Singh&show_icons=true&locale=en">
-            <img src="https://github-readme-stats.vercel.app/api?username=The-Abhishek-Singh&show_icons=true&locale=en"  alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
+          <a target="_blank" rel="https://github-readme-stats.vercel.app/api?username=Divyanshu-Tandan&show_icons=true&locale=en">
+            <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-Tandan&show_icons=true&locale=en"  alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
           </a>
         </th>
       </tr>
