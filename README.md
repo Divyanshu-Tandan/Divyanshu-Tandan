@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead]()
 <h1 align="center">Hi <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">, I'm Divyanshu Tandan</h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/23/f0/03/23f0032d6e49909dd5aa1b24a19701fb.gif"/>
+<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-Tandan&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-Tandan" /> </p>
 
